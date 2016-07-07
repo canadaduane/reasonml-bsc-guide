@@ -6,6 +6,13 @@
 
 ### Mac OS X
 
+**Install the OCaml package manager:**
+
+```
+brew install opam
+opam init
+```
+
 **Install an OCaml version modified for BuckleScript:**
 
 ```
