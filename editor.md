@@ -11,7 +11,7 @@ See [Getting Started](getting-started.md) for more info about `opam`.
 
 ## Sublime Text 3
 
-[Sublime Text Merlin](https://github.com/cynddl/sublime-text-merlin) supports OCaml syntax.
+The [Sublime Text Merlin](https://github.com/cynddl/sublime-text-merlin) plugin for Sublime Text 3 supports OCaml syntax.
 
 **Installation:**
 
