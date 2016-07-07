@@ -13,6 +13,8 @@ brew install opam
 opam init
 ```
 
+(Note: If you don't have `brew` installed yet, see [brew.sh](http://brew.sh/))
+
 **Install an OCaml version modified for BuckleScript:**
 
 ```

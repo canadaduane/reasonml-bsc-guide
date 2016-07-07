@@ -14,3 +14,4 @@ I'm making notes as I get ReasonML and BuckleScript working together. There's a 
 
 - [Getting Started](getting-started.md)
 - [Community](community.md)
+- [Setting Up Your Editor](editor.md)
