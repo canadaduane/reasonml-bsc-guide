@@ -13,3 +13,4 @@ I'm making notes as I get ReasonML and BuckleScript working together. There's a 
 ## Table of Contents
 
 [Getting Started](getting-started.md)
+[Community](community.md)
