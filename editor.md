@@ -19,7 +19,7 @@ The [Sublime Text Merlin](https://github.com/cynddl/sublime-text-merlin) plugin 
 - type in "Install" which should bring up the "Package Control: Install Package" option (NOTE: you need to have [Package Control](https://packagecontrol.io/installation) installed)
 - type "Merlin" to install the sublime-text-merlin package
 
-(How to set it for Reason syntax?)
+There is a [sublime-reason](https://github.com/facebook/reason/tree/master/editorSupport/sublime-reason) plugin for Sublime Text 3. (Is it necessary to install the Merlin plugin at all?)
 
 ## Atom
 
@@ -33,8 +33,8 @@ See also https://github.com/the-lambda-church/merlin/wiki/atom-from-scratch and 
 
 ## Vim
 
-Merlin has built-in support for Vim. (How to set it for Reason syntax?)
+Merlin has built-in support for Vim. You can enable it for Reason by installing the [VimReason](https://github.com/facebook/reason/tree/master/editorSupport/VimReason) plugin for Vim.
 
 ## Emacs
 
-Merlin has built-in support for Emacs. (How to set it for Reason syntax?)
+Merlin has built-in support for Emacs. There is a [reason-mode](https://github.com/facebook/reason/tree/master/editorSupport/emacs) available as a plugin.
