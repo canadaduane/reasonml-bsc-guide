@@ -25,6 +25,8 @@ See [Getting Started](getting-started.md) for more info about `opam`.
 
 The Atom editor supports Reason syntax, see https://ocaml.io/w/Reason#Merlin
 
+See also https://github.com/the-lambda-church/merlin/wiki/atom-from-scratch
+
 ## Visual Studio Code
 
 [OCaml Support](https://marketplace.visualstudio.com/items?itemName=hackwaly.ocaml) supports OCaml syntax. (How to set it for Reason syntax?)
