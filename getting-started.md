@@ -46,3 +46,5 @@ echo 'let _ = Js.log "hello bucklescript!"' > hello.re
 `npm bin`/bsc -pp refmt -impl hello.re
 node hello.js
 ```
+
+**Note:** you can also `npm install -g bs-platform` just once if you'd like it to be installed globally on your system (rather than on a per-project basis). I don't recommend this, however, because with `bsc` being a target under rapid development, you may have some projects that fall behind others with regard to their `bsc` version dependencies.
