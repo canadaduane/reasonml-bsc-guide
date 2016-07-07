@@ -23,9 +23,9 @@ See [Getting Started](getting-started.md) for more info about `opam`.
 
 ## Atom
 
-The Atom editor supports Reason syntax, see https://ocaml.io/w/Reason#Merlin
+The Atom editor supports Reason syntax, see the [Installation Instructions](http://facebook.github.io/reason/tools.html#merlin-atom) on the Tools page of the Reason home page.
 
-See also https://github.com/the-lambda-church/merlin/wiki/atom-from-scratch
+See also https://github.com/the-lambda-church/merlin/wiki/atom-from-scratch and https://ocaml.io/w/Reason#Merlin
 
 ## Visual Studio Code
 
