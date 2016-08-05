@@ -4,7 +4,7 @@
 
 ReasonML is quite new, so the community is still growing around it. Here are a few places to look for connections or help:
 
-- The #reasonml channel on irc.freenode.net. You can see the [chat logs](http://irclog.whitequark.org/reasonml/) on the web. There's talk of creating a slack.com or gitter.im channel as well.
+- The #reasonml channel on irc.freenode.net. You can see the [chat logs](http://irclog.whitequark.org/reasonml/) on the web. There's a [gitter.im channel](https://gitter.im/facebook/reason) as well.
 - The [/r/reasonml subreddit](http://reddit.com/r/reasonml).
 
 ## [BuckleScript](https://github.com/bloomberg/bucklescript)
