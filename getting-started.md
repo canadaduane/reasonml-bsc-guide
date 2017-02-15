@@ -18,7 +18,6 @@ opam init
 **Install an OCaml version modified for BuckleScript:**
 
 ```
-opam pin add BetterErrors https://github.com/chenglou/BetterErrors.git
 opam switch 4.02.3+buckle-1
 eval `opam config env`
 ```
@@ -43,6 +42,7 @@ mkdir helloreason && cd helloreason
 echo "{}" > package.json
 npm install --save bs-platform # <-- takes a while to compile
 echo 'let _ = Js.log "hello bucklescript!"' > hello.re
+cp node_modules/bs-platform/bin/bsc.exe `npm bin`/bsc
 `npm bin`/bsc -pp refmt -impl hello.re
 node hello.js
 ```
